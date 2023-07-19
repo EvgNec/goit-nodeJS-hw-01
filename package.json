@@ -19,5 +19,8 @@
   "homepage": "https://github.com/EvgNec/goit-nodeJS-hw-01#readme",
   "dependencies": {
     "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
   }
 }
