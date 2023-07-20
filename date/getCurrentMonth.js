@@ -3,4 +3,5 @@ const getCurrentMonth = () => {
     return now.getMonth() + 1;
 }
 
-module.exports = getCurrentMonth;
+// module.exports = getCurrentMonth;
+export default getCurrentMonth;

@@ -2,4 +2,5 @@ const isLeapYear = (year) => {
     
 }
 
-module.exports = isLeapYear;
+// module.exports = isLeapYear;
+export default isLeapYear;
