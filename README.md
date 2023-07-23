@@ -1,7 +1,10 @@
-https://ibb.co/bQ4jyHj
 
-https://ibb.co/G2TSDV8
+allContacts - https://ibb.co/D58sPQW
 
-https://ibb.co/znLzwNf
+getContactById - https://ibb.co/G2TSDV8
 
-https://ibb.co/CVzRyL7
+addContact - https://ibb.co/CVzRyL7
+
+updateContactId - https://ibb.co/znLzwNf
+
+removeContact - https://ibb.co/bQ4jyHj
