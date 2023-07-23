@@ -1,6 +1,6 @@
 const fs = require("fs/promises");
 
-const fileOperatinn = async() => {
+const readOperatinn = async() => {
 
     const data = await fs.readFile("./files/file.txt");
     console.log("data", data)
