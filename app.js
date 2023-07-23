@@ -21,8 +21,8 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
 };
 
 // invokeAction({ action: "read" });
-// invokeAction({ action: "getContactById", id: "drsAJ4SHPYqZeG-83QTVW" });
+// invokeAction({ action: "getContactById", id: "rsKkOQUi80UsgVPCcLZZW" });
 // invokeAction({ action: "addContact", name: "Test1", email: "mail@com", phone: "1221212121" });
-// invokeAction({ action: "updateContactId", id: "oPywKo6uDw8svC8b8ggmI", name: "Test2", email: "mail@com", phone: "333333333" });
-// invokeAction({ action: "removeContact", id: "DXk1bwRShRDupNVwJg_iS" });
+// invokeAction({ action: "updateContactId", id: "spjLyuEnqjzrFR4jUWaCX", name: "Test2", email: "mail@com", phone: "333333333" });
+// invokeAction({ action: "removeContact", id: "spjLyuEnqjzrFR4jUWaCX" });
 
